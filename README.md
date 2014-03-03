@@ -1,4 +1,4 @@
 Idopython
 =========
 
-Snippets of improved python code
+Snippets of improved python code, mainly taken out from the Pycon 2013 [[https://speakerdeck.com/pyconslides/transforming-code-into-beautiful-idiomatic-python-by-raymond-hettinger-1|presentation by Raymond Hettinger]]
