@@ -1,0 +1,7 @@
+Ideas from the "boundaries in programming" talk at PyCon US2013:
+    - Use a class, that defines two types of methods:
+        - functional methods, that just take in a simple variable and put out a simple variable
+        - "shell" methods, that manage all the dependancies, both from the external ressources and functional methods and
+            make them work together
+    - Use each of those methods as agents from a distributed programming point of view.
+    - Test functional methods individually, then test the whole shell at once, because it already incorporates all the IO methods.
