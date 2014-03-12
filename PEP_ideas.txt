@@ -1,0 +1,3 @@
+1: blockage of scopes. When iterator defined inside a loop is accessed outside a loop, iterator should not be available, at least a warning is issued or a special method would be required to issue no warning for a legitimate purpouse.
+
+2: blockage of scopes. When a local variable oveshades a globel variable or variable from a superior scope, issue a warning metionning it.
